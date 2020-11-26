@@ -1,3 +1,7 @@
+# run application
+
+**mix run tuto_kbrw_stack.ex**
+
 # TutoKbrwStack
 
 **TODO: Add description**
